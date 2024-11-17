@@ -38,7 +38,7 @@ About Us: The user sees the detail of the old age home.
 
 Contact Us: The user can contact with old age home.
 
-- Run the script http://localhost/oahms
+- Run the script http://localhost/oahms](http://localhost/Old_age_home_management_system
 
 Admin Credential
 Username: admin
